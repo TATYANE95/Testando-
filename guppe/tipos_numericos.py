@@ -79,5 +79,3 @@ print(num)
 # num = 42
 # dir(num) no terminal retorna quais são as operações podemos realizar com num.
 # Ex: num.__add__(8) acrescentará 8 em num.
-
-
