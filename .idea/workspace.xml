@@ -6,9 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb42524-839b-4505-b24f-71cfa6b9e2c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guppe/float.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guppe/tipos_numericos.py" beforeDir="false" afterPath="$PROJECT_DIR$/guppe/tipos_numericos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guppe/tipo_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.tipo_string">
     <configuration name="tipo_booleano" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,8 +57,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tipo_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estudos-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/guppe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guppe/tipo_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tipo_string" />
         <item itemvalue="Python.tipo_booleano" />
       </list>
     </recent_temporary>
@@ -98,22 +119,22 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="137" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.720@0.0.1366.720" timestamp="1658022376570" />
-    <state width="509" height="176" key="GridCell.Tab.0.bottom" timestamp="1658037745454">
+    <state width="659" height="137" key="GridCell.Tab.0.bottom" timestamp="1658187175080">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="509" height="176" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1658037745454" />
-    <state width="509" height="176" key="GridCell.Tab.0.center" timestamp="1658037745454">
+    <state width="659" height="137" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1658187175080" />
+    <state width="659" height="137" key="GridCell.Tab.0.center" timestamp="1658187175080">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="509" height="176" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1658037745454" />
-    <state width="509" height="176" key="GridCell.Tab.0.left" timestamp="1658037745454">
+    <state width="659" height="137" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1658187175080" />
+    <state width="659" height="137" key="GridCell.Tab.0.left" timestamp="1658187175080">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="509" height="176" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1658037745454" />
-    <state width="509" height="176" key="GridCell.Tab.0.right" timestamp="1658037745454">
+    <state width="659" height="137" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1658187175080" />
+    <state width="659" height="137" key="GridCell.Tab.0.right" timestamp="1658187175080">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="509" height="176" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1658037745454" />
+    <state width="659" height="137" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1658187175080" />
     <state x="129" y="54" key="MergeDialog" timestamp="1658026622034">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
@@ -122,14 +143,14 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="321" y="121" key="MultipleFileMergeDialog/0.0.1366.720@0.0.1366.720" timestamp="1658026681043" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1658038244227">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1658187219894">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1658038244227" />
-    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658038888258">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1658187219894" />
+    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658187206427">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.720@0.0.1366.720" timestamp="1658038888258" />
+    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.720@0.0.1366.720" timestamp="1658187206427" />
     <state x="466" y="261" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1658026158090">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
