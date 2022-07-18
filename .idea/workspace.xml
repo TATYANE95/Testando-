@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb42524-839b-4505-b24f-71cfa6b9e2c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/guppe/float.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guppe/tipos_numericos.py" beforeDir="false" afterPath="$PROJECT_DIR$/guppe/tipos_numericos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +36,34 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="tipo_booleano" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estudos-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/guppe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guppe/tipo_booleano.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tipo_booleano" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,5 +86,53 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="https://github.com/TATYANE95/Estudos-Python.git" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/TATYANE95/Estudos-Python into Estudos2&#10;&#10; Conflicts:&#10;&#9;guppe/tipos_numericos.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/TATYANE95/Estudos-Python into Estudos2&#10;&#10; Conflicts:&#10;&#9;guppe/tipos_numericos.py" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1658022376570">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="137" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.720@0.0.1366.720" timestamp="1658022376570" />
+    <state width="509" height="176" key="GridCell.Tab.0.bottom" timestamp="1658037745454">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="509" height="176" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1658037745454" />
+    <state width="509" height="176" key="GridCell.Tab.0.center" timestamp="1658037745454">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="509" height="176" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1658037745454" />
+    <state width="509" height="176" key="GridCell.Tab.0.left" timestamp="1658037745454">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="509" height="176" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1658037745454" />
+    <state width="509" height="176" key="GridCell.Tab.0.right" timestamp="1658037745454">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="509" height="176" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1658037745454" />
+    <state x="129" y="54" key="MergeDialog" timestamp="1658026622034">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="129" y="54" key="MergeDialog/0.0.1366.720@0.0.1366.720" timestamp="1658026622026" />
+    <state x="321" y="121" key="MultipleFileMergeDialog" timestamp="1658026681043">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="321" y="121" key="MultipleFileMergeDialog/0.0.1366.720@0.0.1366.720" timestamp="1658026681043" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1658038188787">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1658038188787" />
+    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658038156858">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.720@0.0.1366.720" timestamp="1658038156858" />
+    <state x="466" y="261" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1658026158090">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="466" y="261" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.720@0.0.1366.720" timestamp="1658026158090" />
   </component>
 </project>
