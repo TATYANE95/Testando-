@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand />
-    <select />
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Estudos2" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb42524-839b-4505-b24f-71cfa6b9e2c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/guppe/tipo_string.py" afterDir="false" />
+    <list default="true" id="4eb42524-839b-4505-b24f-71cfa6b9e2c6" name="Default Changelist" comment="Merge branch 'master' of https://github.com/TATYANE95/Estudos-Python into Estudos2&#10;&#10; Conflicts:&#10;&#9;guppe/tipos_numericos.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +39,8 @@
     </option>
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,7 +57,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.tipo_string">
+  <component name="RunManager" selected="Python.loop_for">
     <configuration name="escopo_de_variaveis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tipo_booleano" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="esrtruturas_condicionais_if_else_elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +91,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guppe/tipo_booleano.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guppe/esrtruturas_condicionais_if_else_elif.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="estruturas_logicas_and_or_not_is" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estudos-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/guppe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guppe/estruturas_logicas_and_or_not_is.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loop_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estudos-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/guppe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guppe/loop_for.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,9 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.escopo_de_variaveis" />
+        <item itemvalue="Python.loop_for" />
+        <item itemvalue="Python.estruturas_logicas_and_or_not_is" />
+        <item itemvalue="Python.esrtruturas_condicionais_if_else_elif" />
         <item itemvalue="Python.tipo_string" />
-        <item itemvalue="Python.tipo_booleano" />
+        <item itemvalue="Python.escopo_de_variaveis" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +182,28 @@
       <option name="presentableId" value="Default" />
       <updated>1657077520107</updated>
     </task>
+    <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/TATYANE95/Estudos-Python into Estudos2&#10;&#10; Conflicts:&#10;&#9;guppe/tipos_numericos.py">
+      <created>1658608057921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658608057921</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge branch 'master' of https://github.com/TATYANE95/Estudos-Python into Estudos2&#10;&#10; Conflicts:&#10;&#9;guppe/tipos_numericos.py">
+      <created>1658731860716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658731860716</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge branch 'master' of https://github.com/TATYANE95/Estudos-Python into Estudos2&#10;&#10; Conflicts:&#10;&#9;guppe/tipos_numericos.py">
+      <created>1658902787375</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658902787375</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,7 +211,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Estudos2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -144,33 +232,49 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="https://github.com/TATYANE95/Estudos-Python.git" />
-    <MESSAGE value="Merge branch 'master' of https://github.com/TATYANE95/Estudos-Python into Estudos2&#10;&#10; Conflicts:&#10;&#9;guppe/tipos_numericos.py" />
     <MESSAGE value="Merge branch 'master' of https://github.com/TATYANE95/Estudos-Python into Estudos2&#10;&#10; Conflicts:&#10;&#9;guppe/tipos_numericos.py&#10;&#10;Signed-off-by: TATYANE95 &lt;TATIANEFREIRE1@OUTLOOK.COM&gt;" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/TATYANE95/Estudos-Python into Estudos2&#10;&#10; Conflicts:&#10;&#9;guppe/tipos_numericos.py" />
     <MESSAGE value="Merge branch 'master' of https://github.com/TATYANE95/Estudos-Python into Estudos2&#10;&#10; Conflicts:&#10;&#9;guppe/tipos_numericos.py" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/TATYANE95/Estudos-Python into Estudos2&#10;&#10; Conflicts:&#10;&#9;guppe/tipos_numericos.py" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="618" y="42" key="#Inspections" timestamp="1658901073476">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="618" y="42" key="#Inspections/0.0.1366.720@0.0.1366.720" timestamp="1658901073476" />
+    <state x="550" y="25" key="#Intentions" timestamp="1658604021350">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="550" y="25" key="#Intentions/0.0.1366.720@0.0.1366.720" timestamp="1658604021350" />
+    <state x="421" y="184" key="#Notifications" timestamp="1658376523021">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="421" y="184" key="#Notifications/0.0.1366.720@0.0.1366.720" timestamp="1658376523021" />
     <state x="137" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1658022376570">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="137" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.720@0.0.1366.720" timestamp="1658022376570" />
-    <state width="659" height="137" key="GridCell.Tab.0.bottom" timestamp="1658190304436">
+    <state x="129" y="54" width="1092" height="604" key="DiffContextDialog" timestamp="1658888203138">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="659" height="137" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1658190304436" />
-    <state width="659" height="137" key="GridCell.Tab.0.center" timestamp="1658190304436">
+    <state x="129" y="54" width="1092" height="604" key="DiffContextDialog/0.0.1366.720@0.0.1366.720" timestamp="1658888203138" />
+    <state width="652" height="175" key="GridCell.Tab.0.bottom" timestamp="1658902711482">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="659" height="137" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1658190304436" />
-    <state width="659" height="137" key="GridCell.Tab.0.left" timestamp="1658190304436">
+    <state width="652" height="175" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1658902711482" />
+    <state width="652" height="175" key="GridCell.Tab.0.center" timestamp="1658902711482">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="659" height="137" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1658190304436" />
-    <state width="659" height="137" key="GridCell.Tab.0.right" timestamp="1658190304436">
+    <state width="652" height="175" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1658902711482" />
+    <state width="652" height="175" key="GridCell.Tab.0.left" timestamp="1658902711482">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="659" height="137" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1658190304436" />
+    <state width="652" height="175" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1658902711482" />
+    <state width="652" height="175" key="GridCell.Tab.0.right" timestamp="1658902711482">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="652" height="175" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1658902711482" />
     <state x="129" y="54" key="MergeDialog" timestamp="1658026622034">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
@@ -179,14 +283,14 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="321" y="121" key="MultipleFileMergeDialog/0.0.1366.720@0.0.1366.720" timestamp="1658026681043" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1658374769975">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1658902740474">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1658374769975" />
-    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658374697236">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1658902740474" />
+    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658902688444">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.720@0.0.1366.720" timestamp="1658374697236" />
+    <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.720@0.0.1366.720" timestamp="1658902688444" />
     <state x="466" y="261" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1658026158090">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
